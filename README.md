@@ -32,3 +32,9 @@
     <li>Storybook</li>
 
   </ul>
+
+<p>For installation just run the command below</p>
+
+  ```
+  yarn create next-app -e https://github.com/luiz123o/template-nextjs10
+  ```
