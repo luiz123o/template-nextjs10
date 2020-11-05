@@ -19,5 +19,5 @@ Template criado para o uso nos projetos com React em typescript
     <img alt="Repository issues" src="https://img.shields.io/github/issues/luiz123o/template-nextjs10.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/issues/luiz123o/template-nextjs10/blob/master/LICENSE">
+
 </p>
