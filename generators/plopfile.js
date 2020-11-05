@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 // eslint-disable-next-line prettier/prettier
 module.exports = function(plop) {
     plop.setGenerator('component', {
