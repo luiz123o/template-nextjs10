@@ -1,12 +1,14 @@
+import * as S from '../../styles/components/Main/styles'
+
 const Main = ({
-  title = 'React Avançado',
-  description = 'olá vc está em um template'
+  title = 'Typescript Template for NextJS',
+  description = 'Template created for use in projects with React in typescript'
 }) => {
   return (
-    <div>
+    <S.Wrapper>
       <h1>{title}</h1>
       <span>{description}</span>
-    </div>
+    </S.Wrapper>
   )
 }
 export default Main
