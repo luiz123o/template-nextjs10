@@ -1,0 +1,16 @@
+{
+    "name": "Template - Boilerplate",
+    "short_name": "Template",
+    "icons": [{
+            "src": "/img/favicon-ipr.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        }
+
+    ],
+    "background_color": "#06092B",
+    "description": "Template",
+    "display": "fullscreen",
+    "start_url": "/",
+    "theme_color": "#06092B"
+}

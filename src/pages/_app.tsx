@@ -7,13 +7,11 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Presbiteriana Renovada</title>
+        <title>Boiler Plate</title>
         <link rel="shortcut icon" href="/img/favicon-ipr.png" />
         <link rel="apple-touch-icon" href="/img/favicon-ipr.png" />
-        <meta
-          name="description"
-          content="Igreja Presbiteriana Renovada Jardim Vitória uma igreja para a familia que investe em pessoas"
-        />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="description" content="boilerplate" />
       </Head>
       <GlobalStyles />
       <Component {...pageProps} />;
