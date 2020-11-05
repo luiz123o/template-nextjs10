@@ -1,14 +1,7 @@
 # Template Para NextJS em Typescript
 Template criado para o uso nos projetos com React em typescript
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/luiz123o/template-nextjs10/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/luiz123o/template-nextjs10.svg)
-![](https://img.shields.io/github/last-commit/luiz123o/template-nextjs10.svg?color=red)
-![](https://img.shields.io/github/languages/top/luiz123o/template-nextjs10.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/luiz123o/template-nextjs10.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/luiz123o/template-nextjs10.svg)
-![](https://img.shields.io/github/repo-size/luiz123o/template-nextjs10.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luiz123o/template-nextjs10.svg">
@@ -26,5 +19,5 @@ Template criado para o uso nos projetos com React em typescript
     <img alt="Repository issues" src="https://img.shields.io/github/issues/luiz123o/template-nextjs10.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/luiz123o/template-nextjs10.svg">
+  <img alt="GitHub" src="https://github.com/luiz123o/template-nextjs10/blob/master/LICENSE">
 </p>
