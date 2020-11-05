@@ -1,11 +1,10 @@
 
 
+<h1 align="center">Typescript Template for NextJS</h1>
+  <p align="center">Template created for use in projects with React in typescript</p>
 
 
 <p align="center">
-  <h1># Template Para NextJS em Typescript</h1>
-  <span>Template criado para o uso nos projetos com React em typescript</span>
-
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luiz123o/template-nextjs10.svg">
 
   <a href="https://www.codacy.com/app/luiz123o/template-nextjs10?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=luiz123o/template-nextjs10&amp;utm_campaign=Badge_Grade">
@@ -23,3 +22,13 @@
 
 
 </p>
+
+<h3 align="center">Technologies</h3>
+
+<ul>
+    <li>NextJs</li>
+    <li>Styled-Components</li>
+    <li>Jest</li>
+    <li>Storybook</li>
+
+  </ul>
