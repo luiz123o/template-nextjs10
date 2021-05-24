@@ -1,11 +1,28 @@
+<h1 align="center">Typescript Template for NextJS</h1>
+  <p align="center">Template created for use in projects with React in typescript</p>
 
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
-## What is inside?
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luiz123o/template-nextjs10.svg">
 
-This project uses lot of stuff as:
+  <a href="https://www.codacy.com/app/luiz123o/template-nextjs10?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=luiz123o/template-nextjs10&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/4997e01df18f4441aae384fc60aa4daa.svg">
+  </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/luiz123o/template-nextjs10.svg">
+  <a href="https://github.com/luiz123o/template-nextjs10/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luiz123o/template-nextjs10.svg">
+  </a>
+
+  <a href="https://github.com/luiz123o/template-nextjs10/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/luiz123o/template-nextjs10.svg">
+  </a>
+
+
+</p>
+
+<h3 align="center">Technologies</h3>
+
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
@@ -17,20 +34,13 @@ This project uses lot of stuff as:
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p>For installation just run the command below</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
+  ```
+  yarn create next-app -e https://github.com/luiz123o/template-nextjs10
+  ```
 ## Commands
 
 - `dev`: runs your application on `localhost:3000`
@@ -42,17 +52,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
